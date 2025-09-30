@@ -144,6 +144,10 @@ ENV/
 env.bak/
 venv.bak/
 
+
+# skip pushing the FAISS indexes
+chatwithsite/storage/
+
 # Spyder project settings
 .spyderproject
 .spyproject
